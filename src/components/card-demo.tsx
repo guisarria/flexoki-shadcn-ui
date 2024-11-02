@@ -21,8 +21,8 @@ export const CardDemo = () => {
   return (
     <Card className="flex w-full flex-col justify-center">
       <CardHeader>
-        <CardTitle className="text-purple-primary">create project</CardTitle>
-        <CardDescription>deploy your new project in one-click.</CardDescription>
+        <CardTitle className="text-orange-primary">mars travel</CardTitle>
+        <CardDescription>buy your ticket to mars</CardDescription>
       </CardHeader>
       <CardContent>
         <form>
